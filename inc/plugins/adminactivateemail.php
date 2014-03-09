@@ -33,7 +33,7 @@ function adminactivateemail_run()
 
     $message = $lang->sprintf(
         $lang->adminactivateemail_message,
-        $mybb->user['username'],
+        $user['username'],
         $mybb->settings['bbname'],
         $mybb->settings['bburl'],
         $mybb->settings['bbname']

@@ -12,7 +12,7 @@ function adminactivateemail_info()
         'website'       => 'https://github.com/faviouz/mybb-admin-activate-email',
         'author'        => 'F&#225;bio Maia',
         'authorsite'    => 'https://github.com/faviouz',
-        'version'       => '1.0',
+        'version'       => '1.0.1',
         'guid'          => '0ba023d1cd47865867778b73940c0bf7',
         'compatibility' => '14*, 16*'
     );
